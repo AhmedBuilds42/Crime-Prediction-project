@@ -1,5 +1,5 @@
 
-# 🇬🇧 UK Crime & Multiple Deprivation Analysis
+# UK Crime & Multiple Deprivation Analysis
 
 This project explores the **UK Index of Multiple Deprivation** (IMD) dataset with a focus on **crime**, **income**, **employment**, **education**, and other factors that contribute to regional inequalities.
 
